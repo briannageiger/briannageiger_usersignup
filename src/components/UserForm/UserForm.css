@@ -1,0 +1,15 @@
+.form label {
+  display: inline-block;
+  width: 120px;
+  text-align: left;
+}
+
+.form input {
+    width: 220px;
+    margin-bottom: 3%;
+}
+
+.form button {
+    display: block;
+    margin: auto;
+}
